@@ -1,0 +1,20 @@
+.background {
+    background-color: rgba(39, 193, 245, 0.44);
+}
+
+.h1 {
+    width: 200px;
+    background-color: darkcyan;
+    -webkit-text-stroke: 0.5px yellow;
+    color: lightblue;
+    outline: 5px dotted darkcyan;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.link {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: darkcyan;
+    max-width: 300px;
+}
