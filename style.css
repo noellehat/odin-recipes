@@ -2,7 +2,7 @@ body {
     background-color: rgba(39, 193, 245, 0.44);
 }
 
-h1 {
+h1, h3 {
     width: 200px;
     background-color: darkcyan;
     -webkit-text-stroke: 0.5px yellow;
